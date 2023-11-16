@@ -4,8 +4,8 @@ This repository contains data and other information for our research on storytel
 
 ## Preprint
 
-**Where do people tell stories online? Story Detection Across Online Communities**
-Maria Antoniak, Joel, Mire, Maarten Sap, Elliott Ash, Andrew Piper (2023)
+**Where do people tell stories online? Story Detection Across Online Communities**  
+Maria Antoniak, Joel, Mire, Maarten Sap, Elliott Ash, Andrew Piper (2023)  
 
 You can read our preprint [here](https://github.com/maria-antoniak/stories-online-communities/blob/main/2023_preprint_where_stories.pdf).
 
