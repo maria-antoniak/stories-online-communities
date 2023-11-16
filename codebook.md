@@ -49,4 +49,5 @@
 ## References
 
 [Narrative Theory for Computational Narrative Understanding](https://aclanthology.org/2021.emnlp-main.26/) (Piper et al., 2021)
+
 [Literary Event Detection](https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf) (Sims et al., 2019)
