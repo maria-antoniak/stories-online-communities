@@ -11,7 +11,7 @@ You can read our preprint [here](https://github.com/maria-antoniak/stories-onlin
 
 ## The Storytelling in Online Communities (SOC) Corpus
 
-We present the SOC Corpus, which includes 502 texts annotaed with story- and event-spans.
+We present the SOC Corpus, which includes 502 texts annotated with story- and event-spans.
 
 Our full codebook can be found at []().
 
