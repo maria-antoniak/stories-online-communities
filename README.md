@@ -1,6 +1,6 @@
-# Where do people tell stories online? Story Detection Across Online Communities
+# 🔭StorySeeker
 
-This repository contains data and other information for our research on storytelling across online communities.
+This repository contains data, a codebook, and other resources for the detection of storytelling in online communities.
 
 ## Preprint
 
@@ -9,9 +9,9 @@ Maria Antoniak, Joel, Mire, Maarten Sap, Elliott Ash, Andrew Piper (2023)
 
 You can read our preprint [here](https://github.com/maria-antoniak/stories-online-communities/blob/main/2023_preprint_where_stories.pdf).
 
-## The Storytelling in Online Communities (SOC) Corpus
+## The 🔭StorySeeker Dataset and Codebook
 
-We present the SOC Corpus, which includes 502 texts annotated with story- and event-spans.
+This dataset includes 502 texts annotated with story- and event-spans.
 
 Our full codebook can be found [here](https://github.com/maria-antoniak/stories-online-communities/blob/main/codebook.md).
 
